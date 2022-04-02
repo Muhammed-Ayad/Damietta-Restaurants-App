@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="images/logo.png" alt='HisnElmoslem logo'/>
+<img src="images/logo.png" alt='Damietta Restaurants App'/>
 	
 
 

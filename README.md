@@ -5,10 +5,11 @@
 	
 
 
-# تطبيق مطاعم دمياط
+# تطبيق مطاعم دمياط Damietta Restaurants
 [![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=restaurants.muhammed.ayad)](https://play.google.com/store/apps/details?id=restaurants.muhammed.ayad)
 
-أول تطبيق للمطاعم في دمياط
+ It includes most restaurants in one place, and the user can add any restaurant he wants 
+
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
       alt='Get it on Google Play'

@@ -6,7 +6,7 @@
 
 
 # تطبيق مطاعم دمياط
-[![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?https://play.google.com/store/apps/details?id=restaurants.muhammed.ayad)](https://play.google.com/store/apps/details?https://play.google.com/store/apps/details?id=restaurants.muhammed.ayad)
+[![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=restaurants.muhammed.ayad)](https://play.google.com/store/apps/details?id=restaurants.muhammed.ayad)
 
 أول تطبيق للمطاعم في دمياط
 

@@ -12,7 +12,7 @@
 
 [<img src="https://user-images.githubusercontent.com/50374022/152713461-d367ec7a-687b-40ca-a881-30e49d69821c.png"
       alt='Get it on Google Play'
-      height="80">](https://play.google.com/store/apps/details?https://play.google.com/store/apps/details?id=restaurants.muhammed.ayad)
+      height="80">](https://play.google.com/store/apps/details?id=restaurants.muhammed.ayad)
 
 
 
@@ -27,6 +27,7 @@
 <img src="images/contantUS.png" height="400" >
 
 <div align="left">
+	
 # Package
 
 ## cached_network_image:  A flutter library to show images from the internet and keep them in the cache directory.

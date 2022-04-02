@@ -6,7 +6,7 @@
 
 
 # تطبيق مطاعم دمياط Damietta Restaurants
-[![version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/Muhammed-Ayad/Damietta-Restaurants-App/main)	
+[![version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/Muhammed-Ayad/Damietta-Restaurants-App)	
 [![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=restaurants.muhammed.ayad)](https://play.google.com/store/apps/details?id=restaurants.muhammed.ayad)
 	
 
